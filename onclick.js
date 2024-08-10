@@ -9,4 +9,21 @@ function bTnTikla(){
      document.getElementById('sayi1').innerHTML =ilksayi+ sayi1;
      var ikincisayi= document.getElementById('sayi2').innerHTML
      document.getElementById('sayi2').innerHTML= ikincisayi + sayi2
+      
 }
+function gectiKaldi(){
+    var vize = 50;
+    var final = 10;
+    var toplam = vize + final ;
+    var ortalama = toplam / 2;
+    if (ortalama>50) {
+        alert('gecti');  
+        document.getElementById('durum').innerHTML='gecti';
+    }
+    else {
+        alert('kaldi');
+        document.getElementById('durum').innerHTML='kaldi';
+    }
+
+
+  }
