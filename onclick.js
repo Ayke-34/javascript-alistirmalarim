@@ -27,3 +27,12 @@ function gectiKaldi(){
 
 
   }
+
+  function toplamaislemi(){
+    var ilknumara = 10;
+    var ikincinumara = 5;
+    var toplamlari = ilknumara + ikincinumara;
+    alert (toplamlari)
+
+  }
+
