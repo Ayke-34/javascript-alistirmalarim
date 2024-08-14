@@ -6,7 +6,7 @@
 // var toplam = ilksayi + ikincisayi ;
 // var ortalama= toplam /2;
 // //ad ve soyad değerlerinin tutulduğu iki değişken oluşturulup sonra birleştirilip ekrana yazdırılması
-// var ad = "aybuke"
+//var ad = "aybuke"
 // var soyad = "aksoy"
 // var son = ad + "  " + soyad;
 // //alert(son);
