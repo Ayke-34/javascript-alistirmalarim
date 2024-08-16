@@ -17,7 +17,7 @@
 // //alert (market[2])
 // //alert (person.firstname + "  " + person.yas )
 // //alert(ikincisayi+person.yas)
-// //const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+// const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
 // for (let i=0;i<5 ;i++){
 //     alert(number[i])
 // }

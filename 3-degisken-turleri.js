@@ -17,8 +17,8 @@
 //console.log(typeof false);
 
 /* --- Undefined --- */
-let OgrenciIsmi;
-console.log(typeof OgrenciIsmi);
+// let OgrenciIsmi;
+// console.log(typeof OgrenciIsmi);
 
 
 
