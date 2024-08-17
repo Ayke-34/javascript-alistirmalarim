@@ -16,8 +16,9 @@
 //     console.log(ad);
 //     console.log(soyad);
    
+//
     
-    
+//
     
 // }
 
